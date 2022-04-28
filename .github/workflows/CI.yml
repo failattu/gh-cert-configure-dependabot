@@ -1,8 +1,7 @@
 name: CI for local local-action
 on:
   push:
-    branches-ignore:
-      - main
+
 
 jobs:
   run-tests:
